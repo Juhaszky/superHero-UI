@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Develop\\superHero-UI\\backend\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
         "projectName": "SuperHeroAPI",
         "projectPath": "D:\\Develop\\superHero-UI\\backend\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
-        "packagesPath": "C:\\Users\\Krisztián\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Fornax\\.nuget\\packages\\",
         "outputPath": "D:\\Develop\\superHero-UI\\backend\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Krisztián\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fornax\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
